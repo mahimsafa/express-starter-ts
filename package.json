@@ -1,7 +1,7 @@
 {
-  "name": "bluu-commarce-api",
+  "name": "express-starter-ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express starter with TypeScript",
   "main": "index.ts",
   "scripts": {
     "dev": "nodemon index.ts",
