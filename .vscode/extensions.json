@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "wix.vscode-import-cost",
+        "pkief.material-icon-theme",
+        "zhuangtongfa.material-theme"
+    ]
+}
